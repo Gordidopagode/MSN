@@ -1,0 +1,67 @@
+2026-08-22 20:47:46 INFO     msn.main - Iniciando MSN Messenger Server...
+2026-08-22 20:47:46 INFO     msn.main - Host: 127.0.0.1 | Porta: 8765 | Dados: F:\Server msn principal\msn-messenger-launcher-final\data
+2026-08-22 20:47:46 INFO     websockets.server - server listening on 127.0.0.1:8765
+2026-08-22 20:47:46 INFO     msn.main - Servidor pronto. Aguardando conexões em 127.0.0.1:8765
+2026-08-22 20:47:46 INFO     websockets.server - connection open
+2026-08-22 20:47:46 INFO     msn.network - Connection accepted: 63bcf5d4a0e34185b07e35acacadb09e
+2026-08-22 20:47:46 INFO     websockets.server - connection closed
+2026-08-22 20:47:46 INFO     msn.network - Connection exit: 63bcf5d4a0e34185b07e35acacadb09e
+2026-08-22 20:48:22 INFO     websockets.server - connection open
+2026-08-22 20:48:22 INFO     msn.network - Connection accepted: 31d13447673f4254a7380c2c9dcf1f4d
+2026-08-22 20:48:22 WARNING  msn.core - Login failed for Kamita: Usuário ou senha inválidos.
+2026-08-22 20:48:22 INFO     websockets.server - connection closed
+2026-08-22 20:48:22 INFO     msn.network - Connection exit: 31d13447673f4254a7380c2c9dcf1f4d
+2026-08-22 20:48:48 INFO     websockets.server - connection open
+2026-08-22 20:48:48 INFO     msn.network - Connection accepted: c9af2027e9af4db493a7aeaaee999010
+2026-08-22 20:48:48 INFO     msn.core - New user registered: kamita
+2026-08-22 20:48:48 INFO     msn.core - User authenticated: kamita
+2026-08-22 20:49:10 INFO     msn.core - User logged out: kamita
+2026-08-22 20:49:10 INFO     websockets.server - connection closed
+2026-08-22 20:49:10 INFO     msn.network - Connection exit: c9af2027e9af4db493a7aeaaee999010
+2026-08-22 20:49:18 INFO     websockets.server - connection open
+2026-08-22 20:49:18 INFO     msn.network - Connection accepted: 3dc7300d07624014823ed0d012120bed
+2026-08-22 20:49:18 INFO     msn.core - User authenticated: kamita
+2026-08-22 20:49:39 INFO     websockets.server - connection closed
+2026-08-22 20:49:39 INFO     msn.core - User disconnected (session preserved for reconnection): kamita
+2026-08-22 20:49:39 INFO     msn.network - Connection exit: 3dc7300d07624014823ed0d012120bed
+2026-08-22 20:50:00 INFO     msn.main - Iniciando MSN Messenger Server...
+2026-08-22 20:50:00 INFO     msn.main - Host: 127.0.0.1 | Porta: 8765 | Dados: F:\Server msn principal\msn-messenger-launcher-final\data
+2026-08-22 20:50:00 INFO     websockets.server - server listening on 127.0.0.1:8765
+2026-08-22 20:50:00 INFO     msn.main - Servidor pronto. Aguardando conexões em 127.0.0.1:8765
+2026-08-22 20:50:01 INFO     websockets.server - connection open
+2026-08-22 20:50:01 INFO     msn.network - Connection accepted: 9068fb4ab09344369f2abc0b31927ccb
+2026-08-22 20:50:01 INFO     websockets.server - connection closed
+2026-08-22 20:50:01 INFO     msn.network - Connection exit: 9068fb4ab09344369f2abc0b31927ccb
+2026-08-22 20:50:09 INFO     websockets.server - connection open
+2026-08-22 20:50:09 INFO     msn.network - Connection accepted: b0cb4fb85edc44bda51f568660772f1f
+2026-08-22 20:50:09 INFO     msn.core - User authenticated: kamita
+2026-08-23 01:02:26 INFO     msn.main - Iniciando MSN Messenger Server...
+2026-08-23 01:02:26 INFO     msn.main - Host: 127.0.0.1 | Porta: 8765 | Dados: F:\Server msn principal\msn-messenger-launcher-final\data
+2026-08-23 01:02:26 INFO     websockets.server - server listening on 127.0.0.1:8765
+2026-08-23 01:02:26 INFO     msn.main - Servidor pronto. Aguardando conexões em 127.0.0.1:8765
+2026-08-23 01:02:26 INFO     websockets.server - connection open
+2026-08-23 01:02:26 INFO     msn.network - Connection accepted: fd65a507d22f42c4afeee877ec2f6372
+2026-08-23 01:02:26 INFO     websockets.server - connection closed
+2026-08-23 01:02:26 INFO     msn.network - Connection exit: fd65a507d22f42c4afeee877ec2f6372
+2026-08-23 01:02:27 INFO     websockets.server - connection open
+2026-08-23 01:02:27 INFO     msn.network - Connection accepted: c3c21bd0d3b04b12bbee1eeac92f3302
+2026-08-23 01:02:27 INFO     websockets.server - connection closed
+2026-08-23 01:02:27 INFO     msn.network - Connection exit: c3c21bd0d3b04b12bbee1eeac92f3302
+2026-08-23 01:02:41 INFO     websockets.server - connection open
+2026-08-23 01:02:41 INFO     msn.network - Connection accepted: 3c1765a02efd4104b8126456ec72b260
+2026-08-23 01:02:41 INFO     websockets.server - connection closed
+2026-08-23 01:02:41 INFO     msn.network - Connection exit: 3c1765a02efd4104b8126456ec72b260
+2026-08-23 01:02:57 INFO     websockets.server - connection open
+2026-08-23 01:02:57 INFO     msn.network - Connection accepted: 442841ee957b497fa78bdf18ca429426
+2026-08-23 01:02:57 INFO     websockets.server - connection closed
+2026-08-23 01:02:57 INFO     msn.network - Connection exit: 442841ee957b497fa78bdf18ca429426
+2026-08-23 01:03:16 INFO     websockets.server - connection open
+2026-08-23 01:03:16 INFO     msn.network - Connection accepted: 76d02012907c4e3597561b7b99646d73
+2026-08-23 01:03:16 INFO     msn.core - User authenticated: kamita
+2026-08-23 01:03:31 INFO     msn.core - Status changed: kamita -> busy
+2026-08-23 01:03:33 INFO     msn.core - Status changed: kamita -> online
+2026-08-23 01:03:34 INFO     msn.core - Status changed: kamita -> away
+2026-08-23 01:03:35 INFO     msn.core - Status changed: kamita -> busy
+2026-08-23 01:03:37 INFO     msn.core - User logged out: kamita
+2026-08-23 01:03:37 INFO     websockets.server - connection closed
+2026-08-23 01:03:37 INFO     msn.network - Connection exit: 76d02012907c4e3597561b7b99646d73

@@ -1,0 +1,27 @@
+2026-08-22 20:47:42,382 INFO     Preparando conexão: modo=local endpoint=ws://localhost:8765
+2026-08-22 20:47:44,953 INFO     Servidor local iniciado pelo launcher; PID=17044
+2026-08-22 20:47:46,734 INFO     Servidor confirmado por handshake WebSocket em ws://localhost:8765
+2026-08-22 20:47:46,739 INFO     Frontend local disponível em http://127.0.0.1:53621
+2026-08-22 20:47:46,845 INFO     Hub aberto em http://127.0.0.1:53621/?server=ws%3A%2F%2Flocalhost%3A8765
+2026-08-22 20:49:45,195 INFO     Encerrando launcher
+2026-08-22 20:49:45,195 INFO     Frontend encerrado
+2026-08-22 20:49:45,551 INFO     Encerrando somente o servidor iniciado por esta instância
+2026-08-22 20:49:57,429 INFO     Preparando conexão: modo=local endpoint=ws://localhost:8765
+2026-08-22 20:49:59,961 INFO     Servidor local iniciado pelo launcher; PID=8484
+2026-08-22 20:50:01,213 INFO     Servidor confirmado por handshake WebSocket em ws://localhost:8765
+2026-08-22 20:50:01,216 INFO     Frontend local disponível em http://127.0.0.1:53760
+2026-08-22 20:50:01,309 INFO     Hub aberto em http://127.0.0.1:53760/?server=ws%3A%2F%2Flocalhost%3A8765
+2026-08-22 20:51:54,053 INFO     Encerrando launcher
+2026-08-22 20:51:54,053 INFO     Frontend encerrado
+2026-08-22 20:51:54,179 INFO     Encerrando somente o servidor iniciado por esta instância
+2026-08-23 01:02:22,965 INFO     Preparando conexão: modo=local endpoint=ws://localhost:8765
+2026-08-23 01:02:25,545 INFO     Servidor local iniciado pelo launcher; PID=15960
+2026-08-23 01:02:26,816 INFO     Servidor confirmado por handshake WebSocket em ws://localhost:8765
+2026-08-23 01:02:26,829 INFO     Frontend local disponível em http://127.0.0.1:60984
+2026-08-23 01:02:26,928 INFO     Hub aberto em http://127.0.0.1:60984/?server=ws%3A%2F%2Flocalhost%3A8765
+2026-08-23 01:02:55,930 INFO     Preparando conexão: modo=local endpoint=ws://localhost:8765
+2026-08-23 01:02:57,211 INFO     Servidor confirmado por handshake WebSocket em ws://localhost:8765
+2026-08-23 01:02:57,257 INFO     Hub aberto em http://127.0.0.1:60984/?server=ws%3A%2F%2Flocalhost%3A8765
+2026-08-23 01:03:54,892 INFO     Encerrando launcher
+2026-08-23 01:03:54,892 INFO     Frontend encerrado
+2026-08-23 01:03:55,164 INFO     Encerrando somente o servidor iniciado por esta instância
